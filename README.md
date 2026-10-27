@@ -1,102 +1,35 @@
-<div align="center">
+# 💫 About Me:
+🔭 I'm currently building **AI-powered applications** and **security tools**<br>
+👯 I'm looking to collaborate on **Python, AI, and open-source projects**<br>
+🤝 I'm looking for help with **production-grade AI deployments**<br>
+🌱 I'm currently learning **applied LLMs, system design, and cloud deployment**<br>
+💬 Ask me about **Python, Streamlit, Flask, and practical security projects**<br>
+⚡ Fun fact: **I built an app that summarizes long videos so you don't have to watch them.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,100:1D4ED8&height=200&section=header&text=Koyel%20Kar&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=Python%20Developer%20%C2%B7%20AI%20%26%20Security&descAlignY=58&descSize=17" width="100%" alt="Koyel Kar banner" />
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koyel-kar-6937a1326) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/koyelkar/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1EkWuJV4dd/) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/koyelkar24) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://portfolio-k-wine.vercel.app) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kar351191@gmail.com)
 
-**I build practical software where AI, automation, and security meet.**
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=plastic&logo=openai&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-%23000000.svg?style=plastic&logo=ollama&logoColor=white) ![faster-whisper](https://img.shields.io/badge/faster--whisper-%230B1220.svg?style=plastic) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0B1220?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-k-wine.vercel.app)
-[![Email](https://img.shields.io/badge/Email-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kar351191@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/koyelkar24)
+## 🚀 Featured Projects
 
-![Profile views](https://komarev.com/ghpvc/?username=koyelkar24&style=flat-square&color=1D4ED8&label=profile%20views)
-![Followers](https://img.shields.io/github/followers/koyelkar24?style=flat-square&color=1D4ED8&label=followers)
-
-</div>
-
-## About
-
-I'm a Python developer who enjoys turning ideas into working products — from AI-powered video summarization to security tools people can actually use.
-
-- **Building:** end-to-end AI applications with clean, maintainable Python.
-- **Comfortable across the stack:** Python backends, Flask APIs, and responsive HTML/CSS/JavaScript interfaces.
-- **Security-minded:** password strength analysis, breach checks, and hands-on cryptography.
-- **Exploring:** applied LLMs, system design, and cloud deployment.
-- **Open to:** internships, freelance work, and open-source collaboration.
-
-> I care about readable code, thoughtful architecture, and shipping software that solves a real problem.
-
-## Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**AI & Data**
-
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![faster-whisper](https://img.shields.io/badge/faster--whisper-0B1220?style=flat-square)
-
-**Backend & Tools**
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-## Featured Projects
-
-### [AI Video Summarizer](https://github.com/koyelkar24/summarization_dashboard)
-
-`Python` · `Streamlit` · `faster-whisper` · `yt-dlp` · `ffmpeg` · `Ollama` / `OpenAI`
-
-An end-to-end video intelligence app. Paste a YouTube URL or upload a video and get a timestamped transcript, an AI-written summary, key highlights, smart chapters, a chat-with-video assistant, and study material — notes, viva questions, MCQs, and flashcards. The LLM backend is switchable between a local Ollama model and the OpenAI API, straight from the sidebar.
-
-### [Password Analyzer](https://github.com/koyelkar24/passwordAnalyser)
-
-`Python` · `Flask` · `zxcvbn` · `REST API`
-
-A password strength analyzer that combines zxcvbn scoring, entropy estimation, and known-breach checks to give clear, actionable security feedback. Ships with a lightweight web UI and a clean API layer.
-
-[Live Demo](https://password-analyser-ten.vercel.app) · [Source Code](https://github.com/koyelkar24/passwordAnalyser)
-
-### [QuantumCrypt](https://github.com/koyelkar24/text_encryption)
-
-`Python` · `Streamlit`
-
-An encryption playground that derives a byte-shift key from a passphrase, encrypts text, and encodes the result in Base64 — a hands-on way to explore how classical cryptography works under the hood.
-
-### More Projects
-
-| Project | Description | Built with |
+| Project | What it does | Built with |
 | :--- | :--- | :--- |
-| [Portfolio Website](https://portfolio-k-wine.vercel.app) | Personal portfolio showcasing my work and background. | HTML · CSS · JavaScript |
-| [CodeAlpha Chatbot](https://github.com/koyelkar24/CodeAlpha_chatbot) | A rule-based command-line chatbot built during my CodeAlpha internship. | Python |
+| **[AI Video Summarizer](https://github.com/koyelkar24/summarization_dashboard)** | Turns a YouTube URL or uploaded video into a transcript, AI summary, smart chapters, and a chat-with-video study assistant. | Python · Streamlit · faster-whisper · Ollama / OpenAI |
+| **[Password Analyzer](https://github.com/koyelkar24/passwordAnalyser)** | Scores password strength with zxcvbn and entropy checks, plus known-breach lookups. | Python · Flask · zxcvbn |
+| **[QuantumCrypt](https://github.com/koyelkar24/text_encryption)** | A Streamlit playground for passphrase-based text encryption and Base64 encoding. | Python · Streamlit |
 
-## GitHub Analytics
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=koyelkar24&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com?user=koyelkar24&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=koyelkar24&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
+## 📈 GitHub Summary
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=koyelkar24&theme=github_dark)
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=koyelkar24&show_icons=true&hide_border=true&title_color=1D4ED8&icon_color=1D4ED8&text_color=64748B&bg_color=00000000&include_all_commits=true&count_private=true" alt="Koyel's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koyelkar24&layout=compact&hide_border=true&title_color=1D4ED8&text_color=64748B&bg_color=00000000&langs_count=6" alt="Top languages" />
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-</div>
-
-## Connect
-
-I'm always happy to talk about Python, applied AI, or a good side project.
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/kar351191%40gmail.com-1D4ED8?style=flat-square&logo=gmail&logoColor=white)](mailto:kar351191@gmail.com)
-[![Portfolio](https://img.shields.io/badge/portfolio-k--wine.vercel.app-0B1220?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-k-wine.vercel.app)
-[![GitHub](https://img.shields.io/badge/%40koyelkar24-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/koyelkar24)
-
-<sub>Thanks for stopping by — explore the repositories and reach out if something catches your eye.</sub>
-
-</div>
+---
+[![](https://komarev.com/ghpvc/?username=koyelkar24&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/koyelkar24)
