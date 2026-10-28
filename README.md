@@ -28,8 +28,6 @@
 ## 📈 GitHub Summary
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=koyelkar24&theme=github_dark)
 
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
 [![](https://komarev.com/ghpvc/?username=koyelkar24&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/koyelkar24)
