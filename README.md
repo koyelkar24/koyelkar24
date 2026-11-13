@@ -1,8 +1,24 @@
 <div align="center">
 
-<img src="assets/profile-name.svg" alt="Koyel Kar" width="100%">
+<img src="assets/profile-name.svg" alt="Koyel Kar — currently building AI-powered applications and security tools" width="100%">
 
-# 💫 About Me:
+</div>
+
+<h2 align="center">🌐 Socials:</h2>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-e31837?logo=linkedin&logoColor=white&labelColor=101116&style=for-the-badge)](https://www.linkedin.com/in/koyel-kar-6937a1326) [![Instagram](https://img.shields.io/badge/Instagram-FOLLOW-e31837?logo=instagram&logoColor=white&labelColor=101116&style=for-the-badge)](https://www.instagram.com/koyelkar/) [![Facebook](https://img.shields.io/badge/Facebook-FOLLOW-e31837?logo=facebook&logoColor=white&labelColor=101116&style=for-the-badge)](https://www.facebook.com/share/1EkWuJV4dd/) [![GitHub](https://img.shields.io/badge/GitHub-FOLLOW-e31837?logo=github&logoColor=white&labelColor=101116&style=for-the-badge)](https://github.com/koyelkar24) [![Portfolio](https://img.shields.io/badge/Portfolio-VISIT-e31837?logo=vercel&logoColor=white&labelColor=101116&style=for-the-badge)](https://portfolio-k-wine.vercel.app) [![Email](https://img.shields.io/badge/Email-CONTACT-e31837?logo=gmail&logoColor=white&labelColor=101116&style=for-the-badge)](mailto:kar351191@gmail.com)
+
+[![](https://komarev.com/ghpvc/?username=koyelkar24&label=Profile%20views&color=e31837&style=for-the-badge)](https://github.com/koyelkar24)
+
+</div>
+
+---
+
+<h2 align="center">💫 About Me:</h2>
+
+<div align="center">
 
 🔭 I'm currently building **AI-powered applications** and **security tools**<br>
 👯 I'm looking to collaborate on **Python, AI, and open-source projects**<br>
@@ -15,27 +31,17 @@
 
 ---
 
-## 🌐 Socials:
+<h2 align="center">💻 Tech Stack:</h2>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/koyel-kar-6937a1326) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/koyelkar/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/share/1EkWuJV4dd/) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)](https://github.com/koyelkar24) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white&style=for-the-badge)](https://portfolio-k-wine.vercel.app) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:kar351191@gmail.com)
+![Python](https://img.shields.io/badge/python-e31837?style=for-the-badge&logo=python&logoColor=white&labelColor=101116) ![JavaScript](https://img.shields.io/badge/javascript-e31837?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101116) ![HTML5](https://img.shields.io/badge/html5-e31837?style=for-the-badge&logo=html5&logoColor=white&labelColor=101116) ![CSS3](https://img.shields.io/badge/css3-e31837?style=for-the-badge&logo=css3&logoColor=white&labelColor=101116) ![Flask](https://img.shields.io/badge/flask-e31837?style=for-the-badge&logo=flask&logoColor=white&labelColor=101116) ![Streamlit](https://img.shields.io/badge/Streamlit-e31837?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=101116) ![OpenAI](https://img.shields.io/badge/OpenAI-e31837?style=for-the-badge&logo=openai&logoColor=white&labelColor=101116) ![Ollama](https://img.shields.io/badge/Ollama-e31837?style=for-the-badge&logo=ollama&logoColor=white&labelColor=101116) ![faster-whisper](https://img.shields.io/badge/faster--whisper-e31837?style=for-the-badge&labelColor=101116) ![Git](https://img.shields.io/badge/git-e31837?style=for-the-badge&logo=git&logoColor=white&labelColor=101116) ![GitHub](https://img.shields.io/badge/github-e31837?style=for-the-badge&logo=github&logoColor=white&labelColor=101116) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-e31837?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=101116) ![Vercel](https://img.shields.io/badge/vercel-e31837?style=for-the-badge&logo=vercel&logoColor=white&labelColor=101116)
 
 </div>
 
 ---
 
-## 💻 Tech Stack:
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white) ![faster-whisper](https://img.shields.io/badge/faster--whisper-%230B1220.svg?style=for-the-badge) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-</div>
-
----
-
-## 🚀 Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
 
 | Project | What it does | Built with |
 | :--- | :--- | :--- |
@@ -45,20 +51,20 @@
 
 ---
 
-## 📊 GitHub Stats:
+<h2 align="center">📊 GitHub Stats:</h2>
 
 <div align="center">
 
 | | |
 | :---: | :---: |
-| ![](https://github-readme-stats.vercel.app/api?username=koyelkar24&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![](https://streak-stats.demolab.com?user=koyelkar24&theme=dark&hide_border=false) |
-| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=koyelkar24&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) | |
+| ![](https://github-readme-stats.vercel.app/api?username=koyelkar24&theme=radical&hide_border=true&include_all_commits=false&count_private=false) | ![](https://streak-stats.demolab.com?user=koyelkar24&theme=radical&hide_border=true) |
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=koyelkar24&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact) | |
 
 </div>
 
 ---
 
-## 📈 GitHub Summary
+<h2 align="center">📈 GitHub Summary</h2>
 
 <div align="center">
 
@@ -68,14 +74,10 @@
 
 ---
 
-### ?? Dev Quote
+<h2 align="center">✍️ Dev Quote</h2>
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
----
-
-[![](https://komarev.com/ghpvc/?username=koyelkar24&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/koyelkar24)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
