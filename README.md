@@ -66,6 +66,14 @@
 
 ---
 
+### ?? Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+---
+
 [![](https://komarev.com/ghpvc/?username=koyelkar24&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/koyelkar24)
 
 </div>
