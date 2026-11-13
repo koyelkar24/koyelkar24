@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="320" viewBox="0 0 1400 320" role="img" aria-labelledby="title desc">
+  <title id="title">Koyel Kar</title>
+  <desc id="desc">Neon red profile name banner</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10080b"/>
+      <stop offset="0.55" stop-color="#09090d"/>
+      <stop offset="1" stop-color="#16070a"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="60%">
+      <stop offset="0" stop-color="#e31837" stop-opacity=".26"/>
+      <stop offset="1" stop-color="#e31837" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" fill="none" stroke="#ff405a" stroke-opacity=".08" stroke-width="1"/>
+    </pattern>
+    <filter id="softGlow" x="-50%" y="-70%" width="200%" height="240%">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect x="1" y="1" width="1398" height="318" rx="24" fill="url(#bg)" stroke="#a51d32" stroke-width="2"/>
+  <rect x="2" y="2" width="1396" height="316" rx="23" fill="url(#grid)"/>
+  <rect x="2" y="2" width="1396" height="316" rx="23" fill="url(#glow)"/>
+  <g fill="none" stroke="#ff304d" stroke-width="5" stroke-linecap="round">
+    <path d="M34 72V34H72M1328 34h38v38M34 248v38h38M1366 248v38h-38"/>
+  </g>
+  <circle cx="700" cy="82" r="7" fill="#ff405a"/>
+  <text x="700" y="193" text-anchor="middle" fill="#fff6f7" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="800" letter-spacing="8" filter="url(#softGlow)">KOYEL KAR</text>
+  <path d="M475 242H925" stroke="#ff304d" stroke-opacity=".7" stroke-width="2"/>
+  <circle cx="460" cy="242" r="3" fill="#ff304d"/>
+  <circle cx="940" cy="242" r="3" fill="#ff304d"/>
+</svg>

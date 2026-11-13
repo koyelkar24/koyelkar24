@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/profile-name.svg" alt="Koyel Kar" width="100%">
+
 # 💫 About Me:
 
 🔭 I'm currently building **AI-powered applications** and **security tools**<br>
