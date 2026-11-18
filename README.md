@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile-name.svg" alt="Koyel Kar — currently building AI-powered applications and security tools" width="100%">
+<img src="assets/profile-name-blue.svg" alt="Koyel Kar — currently building AI-powered applications and security tools" width="100%">
 
 </div>
 
