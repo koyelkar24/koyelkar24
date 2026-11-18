@@ -8,9 +8,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-e31837?logo=linkedin&logoColor=white&labelColor=101116&style=for-the-badge)](https://www.linkedin.com/in/koyel-kar-6937a1326) [![Instagram](https://img.shields.io/badge/Instagram-FOLLOW-e31837?logo=instagram&logoColor=white&labelColor=101116&style=for-the-badge)](https://www.instagram.com/koyelkar/) [![Facebook](https://img.shields.io/badge/Facebook-FOLLOW-e31837?logo=facebook&logoColor=white&labelColor=101116&style=for-the-badge)](https://www.facebook.com/share/1EkWuJV4dd/) [![GitHub](https://img.shields.io/badge/GitHub-FOLLOW-e31837?logo=github&logoColor=white&labelColor=101116&style=for-the-badge)](https://github.com/koyelkar24) [![Portfolio](https://img.shields.io/badge/Portfolio-VISIT-e31837?logo=vercel&logoColor=white&labelColor=101116&style=for-the-badge)](https://portfolio-k-wine.vercel.app) [![Email](https://img.shields.io/badge/Email-CONTACT-e31837?logo=gmail&logoColor=white&labelColor=101116&style=for-the-badge)](mailto:kar351191@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-0A84FF?logo=linkedin&logoColor=white&labelColor=101116&style=for-the-badge)](https://www.linkedin.com/in/koyel-kar-6937a1326) [![Instagram](https://img.shields.io/badge/Instagram-FOLLOW-0A84FF?logo=instagram&logoColor=white&labelColor=101116&style=for-the-badge)](https://www.instagram.com/koyelkar/) [![Facebook](https://img.shields.io/badge/Facebook-FOLLOW-0A84FF?logo=facebook&logoColor=white&labelColor=101116&style=for-the-badge)](https://www.facebook.com/share/1EkWuJV4dd/) [![GitHub](https://img.shields.io/badge/GitHub-FOLLOW-0A84FF?logo=github&logoColor=white&labelColor=101116&style=for-the-badge)](https://github.com/koyelkar24) [![Portfolio](https://img.shields.io/badge/Portfolio-VISIT-0A84FF?logo=vercel&logoColor=white&labelColor=101116&style=for-the-badge)](https://portfolio-k-wine.vercel.app) [![Email](https://img.shields.io/badge/Email-CONTACT-0A84FF?logo=gmail&logoColor=white&labelColor=101116&style=for-the-badge)](mailto:kar351191@gmail.com)
 
-[![](https://komarev.com/ghpvc/?username=koyelkar24&label=Profile%20views&color=e31837&style=for-the-badge)](https://github.com/koyelkar24)
+[![](https://komarev.com/ghpvc/?username=koyelkar24&label=Profile%20views&color=0A84FF&style=for-the-badge)](https://github.com/koyelkar24)
 
 </div>
 
@@ -35,7 +35,7 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/python-e31837?style=for-the-badge&logo=python&logoColor=white&labelColor=101116) ![JavaScript](https://img.shields.io/badge/javascript-e31837?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101116) ![HTML5](https://img.shields.io/badge/html5-e31837?style=for-the-badge&logo=html5&logoColor=white&labelColor=101116) ![CSS3](https://img.shields.io/badge/css3-e31837?style=for-the-badge&logo=css3&logoColor=white&labelColor=101116) ![Flask](https://img.shields.io/badge/flask-e31837?style=for-the-badge&logo=flask&logoColor=white&labelColor=101116) ![Streamlit](https://img.shields.io/badge/Streamlit-e31837?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=101116) ![OpenAI](https://img.shields.io/badge/OpenAI-e31837?style=for-the-badge&logo=openai&logoColor=white&labelColor=101116) ![Ollama](https://img.shields.io/badge/Ollama-e31837?style=for-the-badge&logo=ollama&logoColor=white&labelColor=101116) ![faster-whisper](https://img.shields.io/badge/faster--whisper-e31837?style=for-the-badge&labelColor=101116) ![Git](https://img.shields.io/badge/git-e31837?style=for-the-badge&logo=git&logoColor=white&labelColor=101116) ![GitHub](https://img.shields.io/badge/github-e31837?style=for-the-badge&logo=github&logoColor=white&labelColor=101116) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-e31837?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=101116) ![Vercel](https://img.shields.io/badge/vercel-e31837?style=for-the-badge&logo=vercel&logoColor=white&labelColor=101116)
+![Python](https://img.shields.io/badge/python-0A84FF?style=for-the-badge&logo=python&logoColor=white&labelColor=101116) ![JavaScript](https://img.shields.io/badge/javascript-0A84FF?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101116) ![HTML5](https://img.shields.io/badge/html5-0A84FF?style=for-the-badge&logo=html5&logoColor=white&labelColor=101116) ![CSS3](https://img.shields.io/badge/css3-0A84FF?style=for-the-badge&logo=css3&logoColor=white&labelColor=101116) ![Flask](https://img.shields.io/badge/flask-0A84FF?style=for-the-badge&logo=flask&logoColor=white&labelColor=101116) ![Streamlit](https://img.shields.io/badge/Streamlit-0A84FF?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=101116) ![OpenAI](https://img.shields.io/badge/OpenAI-0A84FF?style=for-the-badge&logo=openai&logoColor=white&labelColor=101116) ![Ollama](https://img.shields.io/badge/Ollama-0A84FF?style=for-the-badge&logo=ollama&logoColor=white&labelColor=101116) ![faster-whisper](https://img.shields.io/badge/faster--whisper-0A84FF?style=for-the-badge&labelColor=101116) ![Git](https://img.shields.io/badge/git-0A84FF?style=for-the-badge&logo=git&logoColor=white&labelColor=101116) ![GitHub](https://img.shields.io/badge/github-0A84FF?style=for-the-badge&logo=github&logoColor=white&labelColor=101116) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0A84FF?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=101116) ![Vercel](https://img.shields.io/badge/vercel-0A84FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=101116)
 
 </div>
 
@@ -57,8 +57,8 @@
 
 | | |
 | :---: | :---: |
-| ![](https://github-readme-stats.vercel.app/api?username=koyelkar24&theme=radical&hide_border=true&include_all_commits=false&count_private=false) | ![](https://streak-stats.demolab.com?user=koyelkar24&theme=radical&hide_border=true) |
-| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=koyelkar24&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact) | |
+| ![](https://github-readme-stats.vercel.app/api?username=koyelkar24&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false) | ![](https://streak-stats.demolab.com?user=koyelkar24&theme=tokyonight&hide_border=true) |
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=koyelkar24&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact) | |
 
 </div>
 
@@ -68,7 +68,7 @@
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=koyelkar24&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=koyelkar24&theme=tokyonight)
 
 </div>
 
@@ -80,6 +80,6 @@
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
